@@ -3,10 +3,9 @@
 ### Michael Xiao, General Assembly SG-DSI-8
 #### June 20, 2019
 
-## Problem Statement: 
-### How can we predict which subreddit a post belongs to through Count Vectorizing?
+## Problem Statement: How can we predict which subreddit a post belongs to through Count Vectorizing?
 
-Executive Summary
+### Executive Summary
 
 In project 3, our results show that our models have a high accuracy (>90%) of answering our problem statement, which can
 infer that these subreddit posts have little to barely any words that are similar to each other.
