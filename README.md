@@ -7,8 +7,8 @@
 
 ### Executive Summary
 
-In project 3, our results show that our models have a high accuracy (>90%) of answering our problem statement, which can
-infer that these subreddit posts have little to barely any words that are similar to each other.
+In project 3, our results show that our models have a high accuracy (>90%) of answering our problem statement. We can
+infer that these subreddit posts have little to barely any words that are similar to each other and there may be a certain level of overfitting in our models.
 
 #### Confusion Matrix
 ![Confusion Matrix](https://github.com/michaelxiaoyk/Reddit-Classification-with-NLP-/blob/master/images/confusion_matrix.jpg)
